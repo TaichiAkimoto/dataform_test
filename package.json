@@ -1,0 +1,6 @@
+{
+  "name": "gogo",
+  "dependencies": {
+    "@dataform/core": "2.4.2"
+  }
+}
